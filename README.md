@@ -1,5 +1,8 @@
 # React Todo App.
 
+Credit to WEB CIFAR Tutorial on how to create the project
+(https://www.youtube.com/watch?v=W0Uf_xu350k&t=1032s)
+
 SVG for CheckBox:
 
 ```html
